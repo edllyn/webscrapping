@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/69267132/152418573-1ff1e798-724a-4fbc-82fd-b670263ade29.png)
 
-I wrote this code for automatic web tv show page. The purpose of the project was to able to get a url content of a web page and list of sample date that we want to scrape.
+I wrote this code for automatic a web tv show page. The purpose of the project was to able to get a url content of a web page and list of sample date that we want to scrape.
 
 ## Installation
 
